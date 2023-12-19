@@ -1,5 +1,5 @@
 .button {
-    color: var(--color-primary-400);
+    color: var(--color-primary);
     background-color: var(--color-black);
     font-family: "Poppins";
     padding: 10px 16px;
@@ -9,4 +9,5 @@
     font-size: 18px;
     line-height: 27px;
     border-radius: 12px;
+    cursor: pointer;
 }
