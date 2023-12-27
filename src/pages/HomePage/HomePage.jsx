@@ -20,7 +20,6 @@ function HomePage() {
             <hr style={{ backgroundColor: "#34C94B", height: "2px", border: "none" }} />
         </div>
        <FaqSection/>
-
     </>
    )
 }
